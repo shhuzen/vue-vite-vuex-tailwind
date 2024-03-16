@@ -4,10 +4,11 @@
 
 ## Stack
 
--   [Vue 3.0](https://v3.vuejs.org/)
--   [Vuex 4.0](https://vuex.vuejs.org)
+-   [Vue 3.4.21](https://v3.vuejs.org/)
+-   [Vite 5.1.6](https://vitejs.dev/:)
+-   [Vuex 4.1](https://vuex.vuejs.org)
 -   [Router 4.x](https://router.vuejs.org/)
--   [Tailwind CSS](https://router.vuejs.org/)
+-   [Tailwind CSS 3.4.1](https://router.vuejs.org/)
 -   eslint
 -   prettier
 
