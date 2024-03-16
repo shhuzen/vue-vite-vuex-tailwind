@@ -1,4 +1,6 @@
-![Maintenance](https://img.shields.io/maintenance/no/2022?label=Maintained%3F&style=for-the-badge)
+<!-- ![Maintenance](https://img.shields.io/maintenance/no/2?label=Maintained%3F&style=for-the-badge) -->
+
+Credit author 2019-2022 last updated https://github.com/richardevcom/vite-vuex-tailwind
 
 # Vue + Vite + Vuex + Tailwind CSS Связка
 
