@@ -1,6 +1,10 @@
 <!-- ![Maintenance](https://img.shields.io/maintenance/no/2?label=Maintained%3F&style=for-the-badge) -->
 
-Credit author 2019-2022 last updated https://github.com/richardevcom/vite-vuex-tailwind
+# Disclaimer
+
+The original repository for this project is located at: https://github.com/richardevcom/vite-vuex-tailwind. The last update to this repository was made in 2022.
+
+I have made improvements and customized this repository according to my needs. I have updated all dependencies to their latest versions as of March 17, 2024.
 
 # Vue + Vite + Vuex + Tailwind CSS Связка
 
